@@ -1,0 +1,10 @@
+C:\Users\İsmailPc\Source\Repos\Tas_Kagit_Makas\Tas_Kagit_Makas\bin\Debug\Tas_Kagit_Makas.exe.config
+C:\Users\İsmailPc\Source\Repos\Tas_Kagit_Makas\Tas_Kagit_Makas\bin\Debug\Tas_Kagit_Makas.exe
+C:\Users\İsmailPc\Source\Repos\Tas_Kagit_Makas\Tas_Kagit_Makas\bin\Debug\Tas_Kagit_Makas.pdb
+C:\Users\İsmailPc\Source\Repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.csproj.AssemblyReference.cache
+C:\Users\İsmailPc\Source\Repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.Form1.resources
+C:\Users\İsmailPc\Source\Repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.Properties.Resources.resources
+C:\Users\İsmailPc\Source\Repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.csproj.GenerateResource.cache
+C:\Users\İsmailPc\Source\Repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.csproj.CoreCompileInputs.cache
+C:\Users\İsmailPc\Source\Repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.exe
+C:\Users\İsmailPc\Source\Repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.pdb
